@@ -11,7 +11,7 @@ Rabbit Proto makes plugins that easily integrate into your 3D printer, enabling 
 
 ##Who##
 
-Rabbit Proto has been created for designers and makers - they can now speed up their prototyping and ideation process, going from computer design to interactive prototype with just one click.
+Rabbit Proto has been created for designers and makers, by designers and makers - you can now speed up your prototyping and ideation process, going from computer design to interactive prototype with just one click.
 
 
 ##How##
