@@ -1,0 +1,1 @@
+This code won't work until you have something connected to your serial com port. So connect your Arduino, otherwise the sketch won't play.

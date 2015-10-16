@@ -31,18 +31,20 @@ void loop() {
   long total5 =  cs_10_11.capacitiveSensor(30);
   long total6 =  cs_12_13.capacitiveSensor(30);
 
-  if ( (millis() % 100) == 0) {
+Serial.println(total1);
+
+  if ( (millis() % 100) != 0) {
     if (total1 > 5000)
-      Serial.println('U');
-
-    if (total2 > 5000)
-      Serial.println('D');
-
-    if (total3 > 5000)
       Serial.println('L');
 
-    if (total4 > 5000)
+    if (total2 > 5000)
+      Serial.println('U');
+
+    if (total3 > 5000)
       Serial.println('R');
+
+    if (total4 > 5000)
+      Serial.println('D');
 
     if (total5 > 5000)
       Serial.println('A');
