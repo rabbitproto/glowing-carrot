@@ -1,5 +1,8 @@
 ![Rabbit Proto Logo](http://www.rabbitproto.com/wp-content/uploads/2014/02/logo-rabbitproto-drop-shadow1.png)
 
+Attention! Rabbit Proto is now part of Nascent Objects, we are not shipping extruders or machine anymore, but have open sourced all the latest extruder design files so the community can take over and make their own. More information on this post:
+
+<script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/@AlexandreJais/building-the-future-of-making-265a1de3fc73">Building the future of making</a>
 
 Rabbit Proto
 ==============
